@@ -35,4 +35,4 @@ app.listen(PORT, () => {
 });
 
 // API KEY GOOGLE
-// AIzaSyBMl_Edt_qXT2hlV1XQZYjR54-gWjuXJgg
+// AIzaSyBuGNAny4T2kL5cAJWFJCjfoW31BKPoLSI

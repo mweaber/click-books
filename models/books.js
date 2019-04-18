@@ -25,6 +25,10 @@ const bookSchema = new Schema({
     date: {
         type: Date,
         reqiured: true
+    },
+    bookIDs: {
+        type: String,
+        required: true
     }
 });
 
